@@ -1,6 +1,10 @@
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mo-mo-666)](https://github.com/anuraghazra/github-readme-stats)
+## GitHub Stats (include private repo)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mo-mo-666&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mo-mo-666&count_private=true&show_icons=true&hide=stars,contribs&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+
+## Most Used Languages (only public repo)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mo-mo-666&hide=jupyter%20notebook)](https://github.com/mo-mo-666?tab=repositories)
 
 <!--
 **mo-mo-666/mo-mo-666** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
