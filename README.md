@@ -1,6 +1,6 @@
 ## GitHub Stats (include private repo)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mo-mo-666&count_private=true&show_icons=true&hide=stars,contribs&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mo-mo-666&count_private=true&show_icons=true&hide=stars,contribs&include_all_commits=true)](https://github.com/mo-mo-666?tab=repositories)
 
 ## Most Used Languages (only public repo)
 
